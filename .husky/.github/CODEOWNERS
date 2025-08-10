@@ -1,0 +1,17 @@
+# Global owners
+* @dindicoelho
+
+# Frontend
+/src/components/ @frontend-team
+/src/app/ @frontend-team
+
+# Backend
+/src/app/api/ @backend-team
+/src/services/ @backend-team
+
+# Infrastructure
+/infrastructure/ @devops-team
+/.github/workflows/ @devops-team
+
+# Documentation
+/docs/ @all-team
